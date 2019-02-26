@@ -1,0 +1,62 @@
+body{
+    background-image: url('../img/benefits-of-lime.jpg');
+}
+.jumbotron {
+    /*#002D33*/
+    margin-top: 30px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.25em;
+    text-decoration: underline;
+    font-family: "Lucida Sans Unicode","Lucida Grande", sans-serif;
+    color: #A4A400 ;
+    font-size: large;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+span{
+     background-color:#F0F0F0;
+}
+#main-box{
+    border: 2px solid green;
+    margin-bottom: 25px;
+    background-color: #d0e9c6;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+h2{
+    text-align: center;
+    font-family:"Garamond", Georgia, serif; 
+    font-style:oblique;
+    font-size: 30px;   
+}
+h3{
+    text-align: center;
+    font-family: "Georgia", Georgia, serif;
+}
+h3 span{
+     background-color: skyblue;
+}
+#button {
+   
+    font-size: 30px;
+    cursor: pointer;
+    margin-top: 25px;
+    background: yellowgreen;
+    border: 2px solid black;
+    padding: 40px 70px;
+    /* padding: 10px 20px*/
+    /*margin-right: 10px;*/
+    float: left;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 30%;
+    list-style: none;
+    text-decoration: none;
+    -webkit-transition: all 0.5s;
+}
+#button:hover {
+    color:red !important;
+    padding: 60px 90px;
+    background: slateblue;
+}

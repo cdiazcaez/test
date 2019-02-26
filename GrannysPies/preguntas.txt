@@ -1,0 +1,26 @@
+
+
+
+en el pie.html
+
+###############################
+los headins, son h1, h3 h3 ... ?
+pt o px en css? seems px more accurate with the picture example
+########################
+
+la lista debajo de la foto debe estar pegara al border left igual con la foto
+ a que se refiere con reemplazar la palabraa cake
+
+
+un enter entre los quouts y los nombres? <br><br>
+
+como hacer el enlace de pie.jpg
+
+las otras dos pic si estan en mihard?
+
+como hago la validadacion, yo baje el programa.
+
+cual pie bullet quiere, uno no sirve
+
+comentar todo
+github 5 lineas otra vez
